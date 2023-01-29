@@ -1,0 +1,1 @@
+curl --form upload=@hello.txt http://localhost:3000/
